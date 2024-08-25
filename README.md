@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kinjal</h1>
 <h3 align="center">A curious and passionate tech enthusiast</h3>
-<img align="right" alt="coding " width="400" src="![image](https://github.com/user-attachments/assets/f67d18c8-604a-4b81-b1f4-62ac3eb541e7)
+<img align="right" alt="coding " width="400" src="![image](https://github.com/user-attachments/assets/1651b2d7-5afe-477a-932f-4f5b48cf0c32)
+
 ">
 - 🔭 I’m currently working on **React**
 
